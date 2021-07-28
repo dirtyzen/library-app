@@ -3,7 +3,7 @@
 <li>cd library-app</li>
 <li>composer update</li>
 <li>
-<p>open ".env", update database infos</p>
+open ".env", update database infos
 <p>
 DB_DATABASE=<br />
 DB_USERNAME=<br />
